@@ -17,7 +17,7 @@
 <hr>
 <h1>Get to know me!</h1>
 
--Grade: 5
+-Grade: 6
 
 -School: Delhi Public School Banglore East
 
